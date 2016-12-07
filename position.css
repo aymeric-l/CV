@@ -1,0 +1,80 @@
+body
+{
+	background-color:red;
+}
+
+#cadre
+{
+	background-color: white;
+	height: 50em;
+	width: 35%;
+	float: left;
+}
+
+h1
+{
+	color:blue;
+	text-align:center;
+}
+
+.petitcadre
+{
+	background-color: blue;
+	color: white;
+	width: 31.3em;
+	margin-left:9.7em;
+}
+
+#liste
+{
+	margin-left:9.8em;
+}
+.tableauliste
+{
+	padding-left:10em;
+}
+.acti
+{
+	padding-left: 1.6em;
+}
+
+#cadre2
+{
+	height: 50em;
+	background-color: blue;
+	width: 12%;
+	float: left;
+	color: white;
+}
+
+#nyan
+{
+	float:right;
+	margin-right: 1.5em;
+	margin-top: 0.5em;
+}
+
+#nom
+{
+	color:white;
+	margin-top:10em;
+	text-align: center;
+	padding-left:2em;
+}
+
+.cadreblanc
+{
+	background-color: white;
+	color:blue;
+	text-align: center;
+	margin-left: 0.7em;
+	width: 13em;
+}
+p
+{
+	font-weight: bold;
+}
+.droite
+{
+	margin-left:1.8em;
+}
